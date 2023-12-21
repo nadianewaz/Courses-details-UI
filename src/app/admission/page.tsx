@@ -1,15 +1,11 @@
 import React from 'react';
 
-const Skills = () => {
+const Admission = () => {
     return (
         <>
-
-
-
-
             
         </>
     );
 };
 
-export default Skills;
+export default Admission;
